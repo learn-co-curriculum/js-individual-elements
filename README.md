@@ -71,6 +71,6 @@ you try
 
 Now, selecting an element by a query selector is slightly more complicated than selecting an element using one of the previous two methods, but don't worry you'll learn to love it.  But first, a look back.
 
-<iframe height='265' width="125" scrolling='no' title='js and the web' src='//codepen.io/flatiron/embed/ggyKpb/?height=265&theme-id=0&default-tab=html,result&embed-version=2&editable=true' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/flatiron/pen/ggyKpb/'>js and the web</a> by Jeffrey Katz (<a href='http://codepen.io/flatiron'>@flatiron</a>) on <a href='http://codepen.io'>CodePen</a>.
+<iframe height='300' scrolling='no' title='js and the web' src='//codepen.io/flatiron/embed/ggyKpb/?height=300&theme-id=27946&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/flatiron/pen/ggyKpb/'>js and the web</a> by Jeffrey Katz (<a href='http://codepen.io/flatiron'>@flatiron</a>) on <a href='http://codepen.io'>CodePen</a>.
 </iframe>
 
