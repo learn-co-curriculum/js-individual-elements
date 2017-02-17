@@ -22,7 +22,9 @@ There are four common ways to select elements in JavaScript.
   * document.getElementByTagName
   * document.getElementByClassName
 
-<div class="hello">
-  <h1> Hello </h1>
-  <p> Here is a paragraph </h1>
+<div >
+  <div class="hello">
+    <h1 id="foobar"> Hello </h1>
+    <p> Here is a paragraph </h1>
+  </div>
 </div>
